@@ -8,4 +8,4 @@ by Luca Casini, Nicolas Jonason and Bob Sturm.
 
 To be presented at Evomusart2024
 
-A demo page is available at this [LINK](http://130.237.67.24:8080/)
+A demo page is available at this [LINK](http://130.237.67.167:8080/)
